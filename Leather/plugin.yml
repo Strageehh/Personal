@@ -1,0 +1,14 @@
+name: HardCoreFactions
+version: 0.0.1
+author: Strageehh
+api: 5.0.0
+main: HCF\Loader
+
+commands:
+ discord:
+  description: link for discord server
+  usage: /discord
+
+permission:
+ discord.command:
+  default: op
