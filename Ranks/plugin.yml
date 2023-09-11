@@ -1,0 +1,5 @@
+name: Ranks
+author: Strageehh
+version: 1.0.0
+api: 5.0.0
+main: ranks\Loader
